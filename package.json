@@ -1,0 +1,13 @@
+{
+  "name": "kobaken-bot",
+  "private": true,
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "ryym <ryym.64@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "dotenv": "^4.0.0",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
